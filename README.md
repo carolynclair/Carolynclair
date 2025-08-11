@@ -40,12 +40,4 @@ Build a “Lab Archives” visual interface
 End of Line
 
 
----
-
-You just have to create a **special repo** named exactly like your username (`carolynclair`) and drop this README inside — GitHub will auto-display it as your profile.  
-
-If you want, I can make you a **matching divergence meter that auto-updates** when you push changes to SteinsGateOS so it looks alive.  
-
-Do you want me to prep that too before we jump back to the SteinsGate splash work?
-
 
