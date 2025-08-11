@@ -1,4 +1,5 @@
 ![Lab Banner]([https://imgur.com/a/jZvl5si])
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/jZvl5si" data-context="false" ><a href="//imgur.com/a/jZvl5si"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 # Tuturuu~~
 **Lab Member 001** | Future Gadget Laboratory (ラボ)  
