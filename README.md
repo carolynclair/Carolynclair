@@ -1,5 +1,4 @@
-# Hi there, I'm Carolyn 👋
-
+# Hi there, I'm Gary 👋
 **IT Support Professional | Python Developer | Cybersecurity Enthusiast**
 
 Remote-based IT professional transitioning into the cybersecurity and systems administration fields. Passionate about automation, network security, and building efficient IT solutions.
