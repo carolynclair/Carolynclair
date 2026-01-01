@@ -1,43 +1,90 @@
-![Lab Banner](https://i.imgur.com/PdMAB7V.png)
+# Hi there, I'm Carolyn 👋
 
+**IT Support Professional | Python Developer | Cybersecurity Enthusiast**
 
-
-
-# Tuturuu~~
-**Lab Member 001** | Future Gadget Laboratory (ラボ)  
-_“Worldline drifter. Always chasing the divergence.”_  
-`El Psy Kongroo`
+Remote-based IT professional transitioning into the cybersecurity and systems administration fields. Passionate about automation, network security, and building efficient IT solutions.
 
 ---
 
-### 🖥 Current Divergence Meter
-Reading divergence... ███▒▒▒▒▒ 0.337201%
+## 🔧 Technical Skills
+
+**Languages & Tools:**
+- Python (Automation & Scripting)
+- PowerShell (Windows Administration & Scripting)
+- Linux/Unix (Bash scripting)
+- Git & GitHub (Version Control)
+
+**Specializations:**
+- IT Support & Troubleshooting
+- Network Security Fundamentals
+- System Administration
+- Python Automation & Scripting
+- Data Analysis & Analytics
+- Cybersecurity Labs (TryHackMe)
+
+**Platforms & Systems:**
+- Windows Server & Client Administration
+- Linux System Administration
+- Active Directory & Group Policy
+- IT Support Ticketing Systems
+
 ---
 
-### 🛠 Current Gadgets
-- **FG 001**: Phone Microwave (name subject to change)
-- **FG 002**: Divergence Meter Replica
-- **FG 003**: SteinsGateOS Boot Splash  
-  _Status: In Development — target = “ABSOLUTELY STUNNING”_
+## 📚 Certifications & Learning
+
+- **Google IT Support Professional Certificate** ✓
+- **Google Python for Automation Certificate** ✓
+- Currently pursuing: ISC2 Cybersecurity & CompTIA certifications
+- **TryHackMe:** Active in cybersecurity labs and hands-on training
 
 ---
 
-### 📡 Lab Updates
-```diff
-+ [2025-08-11] SteinsGateOS: Repo sync stable — no fatal errors.
-+ [2025-08-11] GitHub profile upgraded to "Tuturuu" protocol.
-! [Pending] Splash FX and boot animation overhaul.
+## 💼 Featured Projects
 
-🧪 Experiments in Progress
-Enhance SteinsGateOS startup with FX & sound
+### [AI Content Moderation Playbook](https://github.com/carolynclair/ai-content-moderation-playbook)
+Python-based content analysis and classification system demonstrating NLP and automation principles.
 
-Automate Git backups every divergence shift
+### [CX Analytics Notebook](https://github.com/carolynclair/cx-analytics-notebook)
+Data analysis and customer experience metrics tracking using Python and analytics frameworks.
 
-Build a “Lab Archives” visual interface
+### [PC Setup & Tools](https://github.com/carolynclair/pc-setup-and-tools)
+PowerShell scripts for Windows system optimization, debloating, and configuration automation.
 
-"Theories are nothing more than words. Accept what you’ve seen."
+### [Cyber Toolkit](https://github.com/carolynclair/cyber-toolkit)
+Bash-based tools and utilities for security testing and system analysis.
 
-End of Line
+### [Multilingual Support Demo](https://github.com/carolynclair/multilingual-support-demo)
+Python implementation demonstrating internationalization (i18n) and multi-language support patterns.
 
+---
 
+## 🎯 Currently Focused On
 
+- 🔐 **Cybersecurity:** Advanced threat detection, penetration testing fundamentals
+- 🐍 **Python:** Automation scripts, security tools, data analysis
+- 🖥️ **Systems:** Linux hardening, Windows Group Policy, network administration
+- 📊 **IT Projects:** Building portfolio of real-world IT solutions
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Contributions](https://img.shields.io/github/followers/carolynclair?style=social)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+## 📫 Let's Connect
+
+- **LinkedIn:** [Gary Hancart](https://linkedin.com/in/gary-hancart-09656b349)
+- **Email:** ccedbyced@gmail.com
+- **Location:** Currently in Greece, open to remote opportunities worldwide
+
+---
+
+*"The best way to predict the future is to invent it." - Alan Kay*
+
+*Last Updated: January 2026*
